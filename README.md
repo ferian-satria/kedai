@@ -1,7 +1,10 @@
 # kedai
+Simple Groceries App
+This is my first project after learning the basics of the dart language, I used a lot of external assets that I put into the code.
+The criteria for this project are:
 
-A new Flutter project.
-
+Implementation using Stateless Widget and Stateful Widget. The widget/input displays the light/dark mode of the application.
+Implementation using Navigation.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
