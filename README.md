@@ -1,5 +1,4 @@
-# kedai
-Simple Groceries App
+# Simple Groceries App
 This is my first project after learning the basics of the dart language, I used a lot of external assets that I put into the code.
 The criteria for this project are:
 
